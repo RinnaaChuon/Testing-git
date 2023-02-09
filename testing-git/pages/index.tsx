@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       
-      <div>b sl sav</div>
+      <div>pika</div>
     </>
   )
 }
