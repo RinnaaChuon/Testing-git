@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       
-      <div>I love u every Universe</div>
+      <div>b sl soy</div>
     </>
   )
 }
